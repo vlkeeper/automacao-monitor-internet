@@ -1,3 +1,5 @@
+.gitignore
+
 # Credenciais
 .env
 
