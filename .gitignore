@@ -1,0 +1,25 @@
+# Credenciais
+.env
+
+# Arquivos de Estado e Dados
+estado_links.json
+estado_links.json.tmp
+/data/
+
+# Cache e Arquivos Py
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+.env_dir/
+
+# IDEs e Arquivos de SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
