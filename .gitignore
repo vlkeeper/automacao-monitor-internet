@@ -1,5 +1,9 @@
+.agents/
+.gemini/
+
 # Credenciais
 .env
+.env.example
 
 # Arquivos de Estado e Dados
 estado_links.json
@@ -8,6 +12,7 @@ estado_links.json.tmp
 
 # Cache e Arquivos Py
 __pycache__/
+.pytest_cache/
 *.py[cod]
 *$py.class
 *.so
